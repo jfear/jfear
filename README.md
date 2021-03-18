@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats for Justin jfear](https://github-readme-stats.vercel.app/api?username=jfear&show_icons=true&theme=default)
+![github stats for Justin jfear](https://github-readme-stats.vercel.app/api?username=jfear&show_icons=true&theme=cobalt)
